@@ -212,7 +212,7 @@ function App() {
               {isDragActive ? (
                 <p>Drop the files here ...</p>
               ) : (
-                <p>Drag 'n' drop some files here, or click to select files</p>
+                <p>Drop your documents here, or click to select and upload them.</p>
               )}
             </div>
             {uploadedFiles.length > 0 && (
