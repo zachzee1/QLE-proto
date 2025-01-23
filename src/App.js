@@ -113,24 +113,26 @@ function App() {
     {
       title: "Changes in Coverage",
       events: [
-        { id: 9, title: "Losing Other Health Coverage", description: "You or a dependent have lost existing health insurance coverage." },
-        { id: 10, title: "Gaining Access to New Coverage", description: "You become eligible for new health coverage options, such as Medicare, Medicaid, or a spouse's plan." },
-        { id: 11, title: "Significant Change in Cost or Coverage of Your Plan", description: "There's a significant increase or decrease in the cost of your current plan, or substantial changes to the coverage it provides." },
+        { id: 9, title: "Newly Eligible for Coverage", description: "You've newly become eligible for health coverage provided by your employer." },
+        { id: 10, title: "Losing Other Health Coverage", description: "You or a dependent have lost existing health insurance coverage." },
+        { id: 11, title: "Gaining Access to New Coverage", description: "You've become eligible for new health coverage options, such as Medicare, Medicaid, or a spouse's plan." },
+        { id: 12, title: "Significant Change in Cost or Coverage of Your Plan", description: "There's a significant increase or decrease in the cost of your current plan, or substantial changes to the coverage it provides." },
       ],
     },
     {
       title: "Dependent Eligibility Changes",
       events: [
-        { id: 12, title: "Child Turning 26 Years Old", description: "Your dependent child has reached the age limit for coverage under your plan and may need their own coverage." },
-        { id: 13, title: "Dependent Gains Other Coverage", description: "Your dependent becomes eligible for their own employer-sponsored health plan." },
+        { id: 13, title: "Child Turning 26 Years Old", description: "Your dependent child has reached the age limit for coverage under your plan and may need their own coverage." },
+        { id: 14, title: "Dependent Gains Other Coverage", description: "Your dependent becomes eligible for their own employer-sponsored health plan or a plan through a spouse." },
+        { id: 15, title: "Dependent Loses Other Coverage", description: "Your dependent loses their employer-sponsored health plan." },
       ],
     },
     {
       title: "Legal or Citizenship Changes",
       events: [
-        { id: 14, title: "Qualified Medical Child Support Order", description: "A court order requires you to provide or remove health coverage for a child." },
-        { id: 15, title: "Becoming a U.S. Citizen or Lawful Permanent Resident", description: "You gain U.S. citizenship or lawful residency status, affecting your eligibility for benefits." },
-        { id: 16, title: "Release from Incarceration", description: "You've been released from jail or prison and need to enroll in health coverage." },
+        { id: 16, title: "Qualified Medical Child Support Order", description: "A court order requires you to provide or remove health coverage for a child." },
+        { id: 17, title: "Becoming a U.S. Citizen or Lawful Permanent Resident", description: "You gain U.S. citizenship or lawful residency status, affecting your eligibility for benefits." },
+        { id: 18, title: "Release from Incarceration", description: "You've been released from jail or prison and need to enroll in health coverage." },
       ],
     },
   ];
