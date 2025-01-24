@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/QLE-proto/static/css/main.ecc63613.css",
-    "main.js": "/QLE-proto/static/js/main.103268fd.js",
+    "main.js": "/QLE-proto/static/js/main.94e02719.js",
     "static/js/453.cf420f4e.chunk.js": "/QLE-proto/static/js/453.cf420f4e.chunk.js",
     "index.html": "/QLE-proto/index.html",
     "main.ecc63613.css.map": "/QLE-proto/static/css/main.ecc63613.css.map",
-    "main.103268fd.js.map": "/QLE-proto/static/js/main.103268fd.js.map",
+    "main.94e02719.js.map": "/QLE-proto/static/js/main.94e02719.js.map",
     "453.cf420f4e.chunk.js.map": "/QLE-proto/static/js/453.cf420f4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecc63613.css",
-    "static/js/main.103268fd.js"
+    "static/js/main.94e02719.js"
   ]
 }
